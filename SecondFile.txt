@@ -1,2 +1,2 @@
 Second file by developer 1
-Text added to check git merge
+Text added to check git merge - 2
